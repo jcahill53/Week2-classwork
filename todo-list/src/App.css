@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  font-size: 100%;
+  background-color: rgb(170, 215, 231);
+}
+
+.App {
+  margin: 10%;
+}
+
+h1 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+img {
+  display:block;
+}
+
+ul {
+  margin-left: 10%;
+};
+
+button {
+  width: 50px;
+  background-color: darkblue;
+  color:white;
+};
+
+label {
+  font-weight: bold;
+
+};
+
+input{
+  background-color: white;
+};
+
+value {
+color: black;
+
+};
